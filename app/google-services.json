@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "816460347441",
+    "project_id": "aula-10-06-24",
+    "storage_bucket": "aula-10-06-24.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:816460347441:android:bb04e577fac66091c93d10",
+        "android_client_info": {
+          "package_name": "br.com.monkey.aula_10_06_24"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkFn5ZGfS36vMwoqbjjDhktr_lB6ptlcw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
